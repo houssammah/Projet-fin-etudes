@@ -19,3 +19,9 @@
 
 ## **Supervisor**
 - **Mme Zekiouke**
+
+---
+
+## **Summary**
+This project aims to create a platform that empowers professionals to develop essential soft skills through personalized 
+learning paths, expert insights, and role-specific guidance, bridging the gap between technical expertise and workplace success.
