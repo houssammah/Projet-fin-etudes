@@ -7,15 +7,15 @@
 ---
 
 ## **Project Title**
-**[To Be Defined]**
+**[Skillbite: A Mobile App for Effortless Learning Through Bite-Sized Soft Skills]**
 
 ---
 
 ## **Students**
-- **First Name Last Name**
-- **First Name Last Name**
+- **Mahdi Houssam Eddine**
+- **Aifour Chouaib**
 
 ---
 
 ## **Supervisor**
-- **First Name Last Name**
+- **Mme Zekiouke**
